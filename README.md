@@ -4,7 +4,8 @@
 Implementation of two contracts: with artwork being stored at an IPFS-based providers (Pinata) and being handled as SVG on the chain.
 
 > Run: npx hardhat run scripts/deploy.js --network rinkeby
-> Make sure you installed hardhat to deploy the contract locally
+
+Make sure you installed hardhat to deploy the contract locally
 
 > OUTPUT contracts/ NFT_IPFS_Hosting.sol   
 >>https://testnets.opensea.io/assets/0xc169801E0dEf33980b893A7c4bbF909E12C42Bea/0
