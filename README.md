@@ -7,6 +7,9 @@ Implementation of two contracts: with artwork being stored at an IPFS-based prov
 
 Make sure you installed hardhat to deploy the contract locally
 
+
+![https://cloudflare-ipfs.com/ipfs/Qme5EBh4CSLT3rgUYkUw7jNLn5yTMxAkWfpK3KGdZMToMP]
+
 - - - - 
 
 > OUTPUT contracts/ NFT_IPFS_Hosting.sol   
@@ -19,6 +22,6 @@ Make sure you installed hardhat to deploy the contract locally
 
 - - - - 
 
-* English version: https://medium.com/@stedyo/adding-solana-payments-to-your-website-in-3-steps-for-dummies-e1921abc9e8d
-* Portuguese version https://medium.com/@stedyo/adicione-opção-de-pagamento-com-a-criptomoeda-solana-no-seu-website-em-3-passos-para-leigos-6ba6f2af3a91
+* English version: 
+* Portuguese version:
 
