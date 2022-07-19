@@ -1,5 +1,5 @@
 
-# Ethereum NFT
+# Ethereum NFT: onChain and IPFS Artwork Storage
 
 Implementation of two contracts: with artwork being stored at an IPFS-based providers (Pinata) and being handled as SVG on the chain.
 
