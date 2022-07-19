@@ -8,7 +8,7 @@ Implementation of two contracts: with artwork being stored at an IPFS-based prov
 Make sure you installed hardhat to deploy the contract locally
 
 
-![https://cloudflare-ipfs.com/ipfs/Qme5EBh4CSLT3rgUYkUw7jNLn5yTMxAkWfpK3KGdZMToMP]
+![Schema](https://cloudflare-ipfs.com/ipfs/Qme5EBh4CSLT3rgUYkUw7jNLn5yTMxAkWfpK3KGdZMToMP)
 
 - - - - 
 
