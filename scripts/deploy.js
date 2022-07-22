@@ -15,6 +15,9 @@ const main = async () => {
       await nftContractIPFSHosting.deployed();
       console.log("IPFS Hosting Artwork deployed to:", nftContractIPFSHosting.address);
 
+      const svg = require("../artwork/original/nft.svg")
+      let SVGbase64 = await nftContractIPFSHosting.svgToImageURI(svg)
+      console.log(SVGbase64)
       let txn = await nftContractIPFSHosting.mintTheNFT()
       await txn.wait() // Wait for it to be minted.
       console.log("The IPFS NFT was Minted :)") 
@@ -53,6 +56,9 @@ const main = async () => {
         `\n`,
         `EtherScan: https://rinkeby.etherscan.io/address/${nftContractonChainHosting.address}`
       );
+
+      // https://www.youtube.com/watch?v=nS9xP1hxg3w
+      //https://github.com/PatrickAlphaC/chainlink-the-graph/blob/main/deploy/01_Deploy_FeedsNFT.js
 
   };
   

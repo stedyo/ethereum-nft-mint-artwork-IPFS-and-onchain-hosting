@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/contracts/NFT_IPFS_Hosting.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/contracts/NFT_IPFS_Hosting.sol": {
       "lastModificationDate": 1658172914553,
       "contentHash": "2d99b167a1e1c0ba7056331abe6904b6",
       "sourceName": "contracts/NFT_IPFS_Hosting.sol",
@@ -40,7 +40,7 @@
         "IPFSHosting"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
       "lastModificationDate": 1658009629088,
       "contentHash": "8af32effd0536e2971ff8496812a5016",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
@@ -77,7 +77,7 @@
         "ERC721URIStorage"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/utils/Counters.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/utils/Counters.sol": {
       "lastModificationDate": 1658009629076,
       "contentHash": "74654e3ae5d7f39555055dfe244dab7a",
       "sourceName": "@openzeppelin/contracts/utils/Counters.sol",
@@ -112,7 +112,7 @@
         "Counters"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/hardhat/console.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/hardhat/console.sol": {
       "lastModificationDate": 1658009388326,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
@@ -147,7 +147,7 @@
         "console"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
       "lastModificationDate": 1658009629087,
       "contentHash": "79ff1a7eb801a525aa315fb7a679eede",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
@@ -190,7 +190,7 @@
         "ERC721"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
       "lastModificationDate": 1658009629098,
       "contentHash": "ec99d946db3685a3630554aa6055bd7f",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
@@ -227,7 +227,7 @@
         "IERC721"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
       "lastModificationDate": 1658009629099,
       "contentHash": "c22d4395e33763de693fd440c6fd10e1",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
@@ -262,7 +262,7 @@
         "IERC721Receiver"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
       "lastModificationDate": 1658009629099,
       "contentHash": "efbc0d15b80a74e34dbe8da0f3e879bb",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
@@ -299,7 +299,7 @@
         "IERC721Metadata"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/utils/Address.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/utils/Address.sol": {
       "lastModificationDate": 1658009629074,
       "contentHash": "c476b3895a94798b88a4bb97399e6dfe",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
@@ -334,7 +334,7 @@
         "Address"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/utils/Context.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/utils/Context.sol": {
       "lastModificationDate": 1658009629076,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
@@ -369,7 +369,7 @@
         "Context"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
       "lastModificationDate": 1658009629106,
       "contentHash": "cf46906c4035f51639a22265066a9e78",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
@@ -404,7 +404,7 @@
         "Strings"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
       "lastModificationDate": 1658009629082,
       "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
@@ -441,7 +441,7 @@
         "ERC165"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
       "lastModificationDate": 1658009629096,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
@@ -476,10 +476,85 @@
         "IERC165"
       ]
     },
-    "/Users/szd/Dev/web3/ethereum-nft-collection-minting-dapp/contracts/NFT_OnChain_Hosting_SVG.sol": {
-      "lastModificationDate": 1658172307967,
-      "contentHash": "ac8d8b6f03aa99bf676c40df3dd5c8bd",
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/contracts/NFT_OnChain_Hosting_SVG.sol": {
+      "lastModificationDate": 1658451818925,
+      "contentHash": "01b6d1aedbb2c3e345be6d4b7ed522bd",
       "sourceName": "contracts/NFT_OnChain_Hosting_SVG.sol",
+      "solcConfig": {
+        "version": "0.8.1",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
+        "@openzeppelin/contracts/utils/Counters.sol",
+        "hardhat/console.sol",
+        "base64-sol/base64.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.1"
+      ],
+      "artifacts": [
+        "onChain"
+      ]
+    },
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/node_modules/base64-sol/base64.sol": {
+      "lastModificationDate": 1658450768332,
+      "contentHash": "0d54cb6a748ddde95d92ed7802c9248d",
+      "sourceName": "base64-sol/base64.sol",
+      "solcConfig": {
+        "version": "0.8.1",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.0"
+      ],
+      "artifacts": [
+        "Base64"
+      ]
+    },
+    "/Users/szd/Dev/web3/ethereum-nft-mint-artwork-onchain-ipfs/contracts/NFT_OnChain_Hosting_SVG copy.sol": {
+      "lastModificationDate": 1658449900807,
+      "contentHash": "ac8d8b6f03aa99bf676c40df3dd5c8bd",
+      "sourceName": "contracts/NFT_OnChain_Hosting_SVG copy.sol",
       "solcConfig": {
         "version": "0.8.1",
         "settings": {

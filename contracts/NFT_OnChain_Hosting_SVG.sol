@@ -35,6 +35,11 @@ contract onChain is ERC721URIStorage {
         "image": "data:image/svg+xml;base64,INSERT_YOUR_BASE64_ENCODED_SVG_HERE"
         } 
         //https://jsonkeeper.com/b/FABD
+
+        // for everyone seeing this, don't keep a link as a parameter, don't trust on third party to store the metadata
+        // I have done it for educational purposes and I have no intention to commit to mainnet or use it for any goal
+        // insert the plain json instead and handle the extra complexity that comes with it
+        // using the abi function helps
     */
   
     _setTokenURI(newItemId, "https://jsonkeeper.com/b/FABD");   // Set the NFTs data.

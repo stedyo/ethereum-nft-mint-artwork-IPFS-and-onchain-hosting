@@ -37,6 +37,11 @@ contract IPFSHosting is ERC721URIStorage {
         "name":"with ipfs host",
         "description":"An NFT with ipfs storage on Pinata",
         "image":"https://cloudflare-ipfs.com/ipfs/QmYAb9b5taMD7jax4yE1guwNWGf89FYjSL5MGBue2ajgwn"
+
+        // for everyone seeing this, don't keep a link as a parameter, don't trust on third party to store the metadata
+        // I have done it for educational purposes and I have no intention to commit to mainnet or use it for any goal
+        // insert the plain json instead and handle the extra complexity that comes with it
+        // using the abi function helps
       }
     */
     
