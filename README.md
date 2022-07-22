@@ -22,6 +22,6 @@ Make sure you installed hardhat to deploy the contract locally
 
 - - - - 
 
-* English version: 
-* Portuguese version:
+* English version: https://medium.com/@stedyo/should-i-choose-ipfs-or-on-chain-nft-storage-4c1c309ccf7d
+* Portuguese version: https://medium.com/@stedyo/armazenamento-ipfs-ou-on-chain-de-nft-qual-escolher-d798ecc79b1c
 
